@@ -3,11 +3,11 @@
 ## [PRE-REQUISITES]
 
 ## [TOPICS]
-  * Configuration (Build Tool, JavaScript, Spring, look and feel, code style)
+  * Configuration (Build Tool, JavaScript, look and feel, code style)
   * Creating new projects
   * Opening / importing existing projects
   * Compiling and running from build files
-  * Running JUnit tests
+  * Running unit tests
   * Git integration (SUPPLEMENTARY)
   * Shortcuts (SUPPLEMENTARY)
 
